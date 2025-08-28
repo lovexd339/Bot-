@@ -7,7 +7,7 @@ app = Flask(__name__)
 PAGE_ACCESS_TOKEN = "EAAebCpdxrz4BPV916GSL9I4LYOc3eXpZBQfskhvOSoul8ZAwW6DzgE9i2PoLJYJiUkCrE6xqn5ZAvZBRgsOmg66raAdKlFBHYVspD8wPZBxm3Bmp8TBsA4qIekbdPiVjkvfHlj4iFXGBLzjQroMS60YEFvkTcGpAUC6ZCvVzocBC672o58x8Xi6sBoCsX1afkhKeo47Wiz8wZDZD"
 
 # 🛡️ वही Verify Token डालो जो Facebook App में भरा है
-VERIFY_TOKEN = "EAAebCpdxrz4BPV916GSL9I4LYOc3eXpZBQfskhvOSoul8ZAwW6DzgE9i2PoLJYJiUkCrE6xqn5ZAvZBRgsOmg66raAdKlFBHYVspD8wPZBxm3Bmp8TBsA4qIekbdPiVjkvfHlj4iFXGBLzjQroMS60YEFvkTcGpAUC6ZCvVzocBC672o58x8Xi6sBoCsX1afkhKeo47Wiz8wZDZD"
+VERIFY_TOKEN = "loveharyanvi"
 
 # 🔒 Lock किया हुआ नाम और Group Thread ID
 LOCKED_NAME = "🔥LOVE ENTER🔥"
